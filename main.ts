@@ -3,7 +3,7 @@ namespace sa_test {
      * adress led 
      */
     //% blockId=screenmagicplotat
-    //% block="plot at index"
+    //% block="plot at $index"
     //% index.min=0 index.max=25
     export function plotAt(index: number):
         void {
